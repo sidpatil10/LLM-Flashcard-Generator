@@ -15,10 +15,10 @@ This project is a lightweight and interactive **Flashcard Generator** built with
 - ✅ Fully offline-capable (after model download)
 
 ---
+![Screenshot 2025-04-08 223050](https://github.com/user-attachments/assets/f477dbd0-897d-4b11-a6a5-d47379e4fdc7)
 
-## 🖼️ Demo Screenshot
 
-![flashcard-demo](https://user-images.githubusercontent.com/yourname/placeholder.png)
+
 
 ---
 
